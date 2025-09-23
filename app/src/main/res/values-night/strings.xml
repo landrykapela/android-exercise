@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="next_button_text">Next</string>
+    <string name="mytitle">This is my Title</string>
+    <string name="name_hint">Enter your full name</string>
+    <string name="fullname">Fullname</string>
 </resources>
